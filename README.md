@@ -1,4 +1,4 @@
-# 👋 Hey there ! This is Jessem Ettaghouti.
+# 👋 Hey there ! It's Jessem Ettaghouti.
 
 🎯 Software Engineer specialized in **AI** & **Web Development**  
 💻 Full-Stack experience with **Python / FastAPI / Vue.js / .NET Razor Pages**  
