@@ -23,6 +23,6 @@
 ---
 
 📫 **How to reach me**:  
-- LinkedIn → [Jessem Ettaghouti](linkedin.com/in/jessem-ettaghouti-38142320a)  
-- Email → jessemtaghouti.prepa@gmail.com
+-  LinkedIn → <a href="https://www.linkedin.com/in/jessem-ettaghouti-38142320a" target="_blank">Jessem Ettaghouti</a>
+-  Email → jessemtaghouti.prepa@gmail.com
 ---
